@@ -1,0 +1,13 @@
+{
+    "type": "service_account",
+    "project_id": "instagrambot-d1b2b",
+    "private_key_id": "8b2e62f1314b588d0fba061121ec83780f7a156c",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDZ86HFpTqb4zFP\nR+O+sNDQZkmw4vDEbYjB6HFRDfPBMo6BUftJZbH0O5plHQXKvVFtMXeGepK9FyBL\nI9Poj8fHpUJLbP+f2jK39YQznL81K85WZsYmdsz4PfVkHoVCM8NtrtxegMeGbMl2\nUOVo1KO/55hNvmCmC5UFwqQqFh3sc301lGQJSvxTuuiVWGSkptHMxqKWSiglvWLT\nBrv/dQtuxXa7GS0YpGOUKEnhqnUo4zU3NvcUl8p97cmuIHWqpz7qsX/DGixllTBD\nK2oAzu4kYvpsgtuU8psgD5cFFFda0H5cN8wGVnjs/cmSpusJv+16vZLEGZkI1oUP\nC3PlbsL7AgMBAAECggEALeCFpdfQzW12PKzyOHp5idRuIIi0i3RO/BoUeC5Kp9kf\nfAMotNtuKO2+4xfH11QgZq6p7Smx55GNn6NsAKD7OYAEw2GvMRO551ULvd15thSB\ne1hoz0HkhUBtfeSawkOpGFZdVpse5KHTik8e6wEPct6qBXtUVr9LYAoHikBbjiCh\nwVd0R7xC/qyrcuHD0ukioZxE5Zyz23GTgYc1VM+/Af3ATLp2k99YLlX+Z+D0Mut8\n5TOpvdY34aA74ccT2ApxJe++N+Vd7sqz21MftOmSdp1J1dOR5KUzNr/4Lvi3AjK3\nQ5dXOG+L/PhJEVYzY/NDy39ezkx3IiKB6LQz5uOM6QKBgQDuLTxBHwwbdQxcszA/\nLJmdL+5V+OwQVbs5qJmOZtV304ejJxfKzdDpI2co0Dx14LUHP7k2dB+moG4AqCmH\n6p5VMTMLhFhKQcQFmya0lrHDO3YWMLxdcKb008FyYI42zDjldUkhKfEj0eO1NAhV\nUPG9yIlvF6HyywUUCpAGzy9S/wKBgQDqQvHfkQeoDFIgxzUa3DA2nyEb+lRJNbH5\nmd6HlLTPRgL5tG3+ubCSG2yMkuE4DTErtWEVDc9+x/OqxkHx56GQJAjHRyJsIVGN\ntylgqXbBiYav9H0abbnA6Q5+CPVvZAIIwrvqkqJg6tjxNdNBhiGk1cs1vHo4iYoI\nFvtZlNHcBQKBgArlOtpnxzACXLxo3g4lxikwpiB8sJ/WrCfpFI01GxLONGg8Q5Rd\nce8YVYHCdOGXk/Bu89QP39rJf/67spqrGu8evw0J0tgixgrTnCOquRsLP02okRVd\nL+YHQdQvopHTKc8lXGEOAB/5XAdQCAmPGF/sKo1QcXIf422VRh1poOqVAoGAYgxe\n+/nRwI5XmYyHN5TNQS9dRj6CJJoqwZObRhgBjXd6K1VPbHv/4UdFKZkYVsN+vxKN\nbah4HlJGNEYCt+MBBjluyymEyMkxPyVYVjLXl62eB+tGqVcflhR1kl7hixvKliwb\nRtTUzce9wUeMAjLHxhwNj5IxfZRjh3tG/HmDVJkCgYBdIH0brxAzHON2wskybcfH\nc5kY/NMDiSq0nwG5T46WFFMcInSc7ybco6fCt49LM/jprbTb0l9x2oCt4khogd29\nnEjXU4mleJX2tnz7ZAsgW7IaMA033rvnWLNKmuJC/HIpjL2lTqCmUFGpqNgh7sY4\n1RSdacb5BPLlC0ZXuVM+0g==\n-----END PRIVATE KEY-----\n",
+    "client_email": "firebase-adminsdk-tm6bp@instagrambot-d1b2b.iam.gserviceaccount.com",
+    "client_id": "108692961567309361294",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-tm6bp%40instagrambot-d1b2b.iam.gserviceaccount.com"
+  }
+  

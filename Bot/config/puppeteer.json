@@ -1,0 +1,27 @@
+{
+    "base_url":"https://www.instagram.com/",
+    "username":"romaindigitalcampus",
+    "password":"passwordtest",
+    "searchTags":["mercedes","audi"],
+    "settings":{
+        "headless":false,
+        "max_amount_pages":10
+    },
+    "selectors":{
+        "username_field":"input[name='username']",
+        "password_field":"input[name='password']",
+        "login_button":"button[type='submit']",
+        "memory_button":"#react-root > section > main > div > div > div > div > button",
+        "notif_button":"body > div.RnEpo.Yx5HN > div > div > div > div.mt3GC > button.aOOlW.HoLwm",
+        "list_publication":"#react-root > section > main > article > div.EZdmt > div > div > div:nth-child(INDEX1) > div:nth-child(INDEX2)",
+        "cross_publication":"body > div > div > button > div > svg > path",
+        "follow_button":"body > div > div > div > article > header > div > div > div > button",
+        "like_button":"body > div > div > div > article > div > section > span > button > div > span > svg",
+        "user_name":"body > div > div > div > article > header > div > div > div > span > a"
+    
+    
+    }
+}
+
+
+
